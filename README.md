@@ -22,4 +22,4 @@
 ## :feet: 과정
 ### Programmers
 시작 날짜 : 2021-09-24              
-Day 1. 
+Day 1. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
