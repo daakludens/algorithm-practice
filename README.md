@@ -22,4 +22,5 @@
 ## :feet: 과정
 ### Programmers
 시작 날짜 : 2021-09-24              
-Day 1. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+Day 1 (2021-09-24). [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)         
+Day 2 (2021-09-25). [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
