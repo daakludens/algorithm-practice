@@ -20,8 +20,7 @@
 <br>
 
 ## :feet: 과정
-### Programmers
-시작 날짜 : 2021-09-24              
+### Programmers      
 Day 1 (2021-09-24). [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)         
 Day 2 (2021-09-25). [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)         
 Day 3 (2021-09-26). [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)          
@@ -31,4 +30,5 @@ Day 6 (2021-09-30). [로또의 최고 순위와 최저 순위](https://programme
 Day 7 (2021-10-01). [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)                       
 Day 8 (2021-10-02). [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)                     
 Day 9 (2021-10-04). [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)                      
-Day 10 (2021-10-05). [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                
+Day 10 (2021-10-05). [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                   
+Day 11 (2021-10-11). [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)                      
