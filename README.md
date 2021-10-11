@@ -33,3 +33,4 @@ Day 9 (2021-10-04). [없는 숫자 더하기](https://programmers.co.kr/learn/co
 Day 10 (2021-10-05). [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)                   
 Day 11 (2021-10-11). [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)                      
 Day 12 (2021-10-11). [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884#)              
+Day 13 (2021-10-11). [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)                        
