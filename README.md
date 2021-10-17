@@ -36,4 +36,5 @@ Day 12 (2021-10-11). [약수의 개수와 덧셈](https://programmers.co.kr/lear
 Day 13 (2021-10-11). [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)                        
 Day 14 (2021-10-13). [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)                   
 Day 15 (2021-10-15). [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)                
-Day 16 (2021-10-16). [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)                       
+Day 16 (2021-10-16). [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)                        
+Day 27 (2021-10-17). [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)                         
