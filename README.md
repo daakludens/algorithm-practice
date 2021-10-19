@@ -40,3 +40,4 @@ Day 16 (2021-10-16). [예산](https://programmers.co.kr/learn/courses/30/lessons
 Day 17 (2021-10-17). [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)                         
 Day 18 (2021-10-18). [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)                             
 Day 19 (2021-10-18). [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)                   
+Day 20 (2021-10-19). [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)                    
