@@ -44,4 +44,4 @@ Day 20 (2021-10-19). [같은 숫자는 싫어](https://programmers.co.kr/learn/c
 Day 21 (2021-10-20). [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)                
 Day 22 (2021-10-20). [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)                     
 Day 23 (2021-10-20). [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)                           
-Day 24 (2021-10-21). [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)                 
+Day 24 (2021-10-21). [소수 찾기(에라토스테네스의 체)](https://programmers.co.kr/learn/courses/30/lessons/12921)                 
