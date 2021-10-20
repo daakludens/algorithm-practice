@@ -43,3 +43,4 @@ Day 19 (2021-10-18). [나머지가 1이 되는 수 찾기](https://programmers.c
 Day 20 (2021-10-19). [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)                    
 Day 21 (2021-10-20). [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)                
 Day 22 (2021-10-21). [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)                     
+Day 23 (2021-10-21). [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)                           
