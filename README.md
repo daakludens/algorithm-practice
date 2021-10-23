@@ -45,3 +45,4 @@ Day 21 (2021-10-19). [수박수박수박수박수박수?](https://programmers.co
 Day 22 (2021-10-20). [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)                     
 Day 23 (2021-10-20). [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)                           
 Day 24 (2021-10-21). [소수 찾기(에라토스테네스의 체)](https://programmers.co.kr/learn/courses/30/lessons/12921)                 
+Day 25 (2021-10-22). [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)                  
