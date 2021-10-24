@@ -48,3 +48,4 @@ Day 24 (2021-10-21). [소수 찾기(에라토스테네스의 체)](https://progr
 Day 25 (2021-10-22). [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)                  
 Day 26 (2021-10-23). [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)                           
 Day 27 (2021-10-24). [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)                
+Day 28 (2021-10-24). [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940#)          
