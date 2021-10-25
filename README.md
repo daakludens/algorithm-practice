@@ -42,4 +42,4 @@
 (2021-10-22). [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)                  
 (2021-10-23). [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)                           
 (2021-10-24). [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928), [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940#), [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937), [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)                      
-(2021-10-25). [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935), [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)                 
+(2021-10-25). [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935), [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944), [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)                 
