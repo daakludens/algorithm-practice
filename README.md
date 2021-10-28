@@ -47,4 +47,4 @@
 (2021-10-27). [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)                              
 (2021-10-27). [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)                    
 (2021-10-28). [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)               
-(2021-10-29). [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
+(2021-10-29). [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916), [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
